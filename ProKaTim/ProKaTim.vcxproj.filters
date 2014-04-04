@@ -29,5 +29,8 @@
     <ClCompile Include="D:\Dropbox2\Dropbox\project_instrument_tuner (1)\CCS_code\v1_2014_03_31\testproject3 - 2014_03_30_02\config_AIC23.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="configAIC23.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -85,6 +85,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="configAIC23.c" />
     <ClCompile Include="D:\Dropbox2\Dropbox\project_instrument_tuner (1)\CCS_code\v1_2014_03_31\testproject3 - 2014_03_30_02\config_AIC23.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
